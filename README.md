@@ -3,8 +3,10 @@
 * [Elastic documentation](https://www.elastic.co/guide/index.html)
 * YouTube
     * [Elasticsearch - Application Performance Monitoring](https://www.youtube.com/playlist?list=PLPatHYWw1RVvMiC44TRgHJn8_FwI90QZc)
-    * [Getting started with the Elastic Stack and Docker Compose: Part 1](https://www.elastic.co/blog/getting-started-with-the-elastic-stack-and-docker-compose)
-    * [Getting started with the Elastic Stack and Docker Compose: Part 2](https://www.elastic.co/blog/getting-started-with-the-elastic-stack-and-docker-compose-part-2)
+    * [Getting started with the Elastic Stack and Docker Compose: Part 1](https://www.youtube.com/watch?v=FYr7HVLlvcs)
+        * [Blog: Part 1](https://www.elastic.co/blog/getting-started-with-the-elastic-stack-and-docker-compose)
+    * [Getting started with the Elastic Stack and Docker Compose: Part 2](https://www.youtube.com/watch?v=q74_FfM7sn0)
+        * [Blog: Part 2](https://www.elastic.co/blog/getting-started-with-the-elastic-stack-and-docker-compose-part-2)
     * [Elasticsearch - Docker Compose](https://www.youtube.com/playlist?list=PLPatHYWw1RVuaGUCZoqEnoqkxLed2jr-u)
     * [Mini Beginner's Crash Course to Elasticsearch and Kibana](https://www.youtube.com/playlist?list=PL_mJOmq4zsHbcdoeAwNWuhEWwDARMMBta)
     * [Elasticsearch - Elastic Agent and Fleet Server](https://www.youtube.com/playlist?list=PLPatHYWw1RVsoX4jww-N4W6x-TscezmaC)
