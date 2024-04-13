@@ -13,3 +13,8 @@
 * Elastic Site
     * [Tutorial 1: Installing a self-managed Elastic Stack](https://www.elastic.co/guide/en/elastic-stack/8.13/installing-stack-demo-self.html)
     * [Install Elasticsearch with Docker](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)
+
+# Docker commands
+```
+docker compose down --remove-orphans --volumes
+```
